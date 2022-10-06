@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @ibaibhavsingh
-- 👀 I’m interested in App making for iOS and using Flutter.
-- 🌱 I’m currently learning ...
-- 💞️  ...
-- 📫 How to reach me ...iBaibhavSingh@gmail.com
+iOS Developer
+-------------
+
+I have been working as iOS App Developer from last 7 years.
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [ibaibhavsingh@gmail.com](mailto:ibaibhavsingh@gmail.com)
+* 🧠  I'm learning swift, Flutter
 
 <!---
 ibaibhavsingh/ibaibhavsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
