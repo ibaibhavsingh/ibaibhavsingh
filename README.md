@@ -5,7 +5,7 @@ I have been working as iOS App Developer from last 7 years.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ibaibhavsingh@gmail.com](mailto:ibaibhavsingh@gmail.com)
-* 🧠  I'm learning swift, Flutter
+* 🧠  Skills: Swift, Objective-C
 
 <!---
 ibaibhavsingh/ibaibhavsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
